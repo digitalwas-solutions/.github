@@ -6,8 +6,6 @@
 ![Profile views](https://gpvc.arturio.dev/digitalwas-solutions) 
 ![GitHub followers](https://img.shields.io/github/followers/digitalwas-solutions?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/digitalwas-solutions?style=social)
-![LinkedIn followers](https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin)
-
 
 ## 🚀 About DigitalWAS Solutions
 DigitalWAS Solutions is a software development company specializing in web, mobile, and desktop applications. We are dedicated to delivering high-quality, innovative solutions to our clients, helping them succeed in their digital transformation journey. 🌐
