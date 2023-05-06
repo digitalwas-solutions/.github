@@ -6,6 +6,7 @@
 ![Profile views](https://gpvc.arturio.dev/digitalwas-solutions) 
 ![GitHub followers](https://img.shields.io/github/followers/digitalwas-solutions?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/digitalwas-solutions?style=social)
+![LinkedIn followers](https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin)
 
 
 ## 🚀 About DigitalWAS Solutions
