@@ -10,6 +10,8 @@
 ## 🚀 About
 [d|w|s] is a software development company specializing in web, mobile, and desktop applications. We are dedicated to delivering high-quality, innovative solutions to our clients, helping them succeed in their digital transformation journey. 🌐
 
+💬 Join our [ [d|w|s] Discord](https://discord.gg/dws)
+
 ## 🔥 Our Expertise
 - 💻 Web Development
 - 📱 Mobile App Development
