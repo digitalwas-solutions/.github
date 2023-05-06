@@ -7,8 +7,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/digitalwas-solutions?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/digitalwas-solutions?style=social)
 
-## 🚀 About DigitalWAS Solutions
-DigitalWAS Solutions is a software development company specializing in web, mobile, and desktop applications. We are dedicated to delivering high-quality, innovative solutions to our clients, helping them succeed in their digital transformation journey. 🌐
+## 🚀 About
+[d|w|s] is a software development company specializing in web, mobile, and desktop applications. We are dedicated to delivering high-quality, innovative solutions to our clients, helping them succeed in their digital transformation journey. 🌐
 
 ## 🔥 Our Expertise
 - 💻 Web Development
