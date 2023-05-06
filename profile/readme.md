@@ -3,7 +3,7 @@
 
 # 👋 Welcome to digitalWAS Solutions 🇩🇪
 
-![Profile views](https://gpvc.arturio.dev/digitalWASsolutions)
+![Profile views](https://gpvc.arturio.dev/digitalwas-solutions)
 
 ## 🚀 About DigitalWAS Solutions
 DigitalWAS Solutions is a software development company specializing in web, mobile, and desktop applications. We are dedicated to delivering high-quality, innovative solutions to our clients, helping them succeed in their digital transformation journey. 🌐
