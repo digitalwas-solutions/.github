@@ -1,7 +1,4 @@
-<img src="https://i.imgur.com/0f9zJOG.png" alt="DigitalWAS Solutions Logo" width="350" height="180"/>
-
-
-# 👋 Welcome to digitalWAS solutions 🇩🇪
+# digitalWAS solutions 🇩🇪
 
 ![Profile views](https://gpvc.arturio.dev/digitalwas-solutions) 
 ![GitHub followers](https://img.shields.io/github/followers/digitalwas-solutions?style=social)
