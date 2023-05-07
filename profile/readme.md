@@ -1,4 +1,4 @@
-# digitalWAS solutions 🇩🇪
+# digitalWAS solutions UG (haftungsbeschränkt) 🇩🇪
 
 ![Profile views](https://gpvc.arturio.dev/digitalwas-solutions) 
 ![GitHub followers](https://img.shields.io/github/followers/digitalwas-solutions?style=social)
